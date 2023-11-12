@@ -200,7 +200,21 @@ a{
         letter-spacing: 0.5px;
 
     }
-    .section-2 button{
+    .section-2 button {
+        font-size: 14px;
+        color: #ffffff;
+        font-weight: 400;
+        font-family: poppins;
+        border: none;
+        min-height: 48px ;
+        min-width: 256px;
+        padding: 12px 20px;
+        border-radius: 5px;
+        background-color: #00b6d1;
+        
+
+    }
+    .section-2 button a{
         font-size: 14px;
         color: #ffffff;
         font-weight: 400;
