@@ -163,7 +163,7 @@ a{
 
     .section-2{
         margin-top: 60px;
-        width: auto;
+        
         min-height: 300px;
         
         text-align: center;
@@ -585,7 +585,7 @@ ul li:hover a{
         .Grid-box .items h2{
         margin-top: 0px;
         } 
-        }
+        
 
 
 
@@ -675,7 +675,7 @@ ul.bar-active{
 }
 
 
-@media screen and (max-width:440px) {
+ @media screen and (max-width:440px) {
     .section-3{
         align-items: center;
         display: flex;
@@ -757,4 +757,4 @@ ul.bar-active{
 
 
 
-    }
+}
